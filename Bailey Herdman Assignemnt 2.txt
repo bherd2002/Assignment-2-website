@@ -1,0 +1,121 @@
+
+<!DOCTYPE html>
+<html>
+<head> 
+<title> Group Assessment 2 </title>
+<style>
+body {
+	 font-family: Arial, Helvetica, sans-serif;
+}
+h1 {
+	border: 3px solid #C0C0C0;
+    text-align: center;
+    padding: 10px;
+    background-color: grey;
+    opacity: 0.9;
+    width: 35%;
+    text-decoration:bold;
+    color:blue;
+    margin:auto;
+    	font-size:200%;
+}
+	
+h2 {
+	border: 3px solid #C0C0C0;
+    text-align: center;
+    padding: 10px;
+    background-color: grey;
+    opacity: 0.9;
+    width: 40%;
+    text-decoration:bold;
+    color:red;
+    margin:auto;
+    font-size:160%;
+	
+}
+h3 {
+	border: 3px solid #C0C0C0;
+    text-align: center;
+    padding: 5px;
+    background-color: grey;
+    opacity: 0.9;
+    width: 10%;
+    text-decoration:bold;
+    color:red;
+    margin:auto;
+    	font-size:140%;
+body {
+	opacity: 0.6;
+}
+a:link {
+  color: red;
+  }
+ul {
+  list-style-type: none;
+  margin: auto;
+  padding: 10;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+<h1> Bailey Herdman Technologies </h1> 
+<nav>
+  <ul>
+    <li><a href="#T1">Autonomous Cars</a></li>
+    <li><a href="#T2">Crytocurrency and Blockchains</a></li>
+    <li><a href="#LL">Links and Citations</a></li>
+	<li><a href"#PP">Project</a></li>
+  </ul>
+</nav>
+<h2 id="T1"> Autonomous Cars </h2>
+<h3> What are they? </h3>
+<p> Autonomous cars as self driving cars there the very modern invention these cars use sensors complex algorithms machine learning capabilities in order to maintain madden side in basing the surroundings me able to traverse roads.  What is most impressive about these cars is they do this in real time, Allowing for safer travel along busy roads. At the present these autonomous cars are not roadworthy but automated cars have been on the road school a few years now so these cars such as testers do not act fully autonomously but more like an assisted driving system. These assisted driving systems are similar to autonomous except they still and operated by human but they also have vidya's and radars surrounding the vehicle looking for any hazards will make sure that the driver has stayed in the correct lane. These are all possible due to recent improvements in lloydie radar systems, this allows the cars to keep a better situational awareness when driving on the road fullstop won mein has had many are concerned back in the cars choices  When an accident is to occur as a cow not have the same response reaction of a human.</p>
+<h3> Who's impacted? </h3> 
+<p> Autonomous in self driving cars will have a massive impact in the transportation industry. Not only will drivers have to accommodate for newer models of autonomous cars that will be self sufficient, but other services that rely on transportation but will also have to change to accommodate this new technology this could include emergency services, taxis, other transport sharing companies. This could also lead to many job losses in any anyone that drives a machine for work such as truck operators or train operators which will be put out of a job with his new autonomous systems.
+ The market around cars will also have to change such as mechanics, insurance companies, registration. </p> 
+<h3> Affects Me? </h3>
+<p>  If autonomous cars become more mainstream this will affect me by myself having to change to autonomous cars. If this becomes the new norm drawing a car yourself may become our date or ill advised in order fit with the new autonomous car system. Due to my Cory as electrician and into AT, more jobs could be available worthy on autonomous systems that would allow more job opportunities for those in electrician or auto electrian and IT fields.  The introduction of autonomous cars may also mean that more electric cars are being sold so electric car charging point will need to be installed in residences. </p>
+
+<h2 id="T2"> Crytocurrency and Blockchains </h2>
+<h3> What are they? </h3>
+<p> Blockchains as encrypted currency have become more relevant in recent years. Crytpocurrency is new form of currency which is all online and has no physical body. The value of this currency is mostly relevant to the  interest in the currency. Both blockchains and crypto-currency is often used in online trading whether that be in trading, real world products, gaming. 
+Blockchains otherwise known as a distributed ledger technology are a form of saving the history of electronic asset. This can be use to record changes and movements of digital assets, being unalterable.  This new blockchain technology has allowed for online trading to become safer in the selling of products to be traceable such as art. These block chains attached to a asset and form a digital history for that asset, Which can be used to trace the origins of the asset. 
+ Both blockchains and crypto currency have allowed for the increase in online marketing in trading. The had seen a boom in the nft markets in other online trading markets.</p>
+<h3> Who's impacted? </h3> 
+<p> This hasn't impact on all online traders and as crypto currencies are the new norm and have a moving value as well as  Anyone sewing products online. These new technologies have opened many ways for people who understand the online trading to make money. And houssein value of online art end assets come increasingly high as now they can be tracked and be legitimised. </p> 
+<h3> Affects Me? </h3>
+<p>  These new technologies could impact myself if I started trading online markets. With these new opportunities online trading has become more accessible in for many a new career path. These could  Open new careers in areas that train in critter currencies or mine crypto currencies and many new sectors that work with blockchains to secure data. </p>
+<h2 id="LL"> Links and Citations </h2> 
+<p>
+PWC. 2021. Making sense of bitcoin, cryptocurrency and blockchain. [online] Available at: https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html [Accessed 16 October 2021].</p> 
+<p> Builtin.com. 2021. What Is Blockchain Technology? How Does It Work? | Built In. [online] Available at: https://builtin.com/blockchain [Accessed 17 October 2021].
+</p>
+<h2> Projects</h2>
+<h3> Project Overview:</h3>
+<p> A project to make a website to sell clothes. The difference with these clothes is too be based on comfort, but still be acceptable when wearing out. Example, quick dry pants that are light and easy to wear, but not covered in surfer pictures.  
+A website that has different pages for different types of clothing but based on weather. Such as Summer and winter clothes that are sorted into warm and cool. Also giving the option for clothing materials. 
+</p>
+<h3>Motivation:</h3> 
+<p> Living in regional Queensland, the weather is harsh and can vary greatly. Most only have two choices, stylish or comfortable. With options of clothing material and descriptions, this would give the buyer more control and freedom. Many times, online shops hide their materials to make more money. I theorise that openness, possibly including a material test kit and descriptions. If customers understand more about what they are buying and can get a sample, they would be more likely to buy a larger stock when they return. </p>
+<h3>Description:</h3> 
+<p> A website that sells clothes via fitness for seasons and materials. With clothes that can be suited and customised via the customer. A simple starting webpage with options for different clothing types e.g., shorts, shirts, jackets etc.  Those would then be sorted between summer and winter which would have the different material types. 
+A clothing brand that allows for users to change their clothing materials.  These clothes would also be designed to fit into more modern styles. This clothing brand would be all about comfort, without sacrificing style. 
+</p>
+<h3>Tools and Technologies:</h3> <p> The website could be made using basic html and CSS, although using a website maker such as Dreamweaver would be faster. For storage, depending on size, a hard drive to a server may be needed. </p>
+<h3>Skills required:</h3> 
+<p> Skill sets needed would be software development, website development, and a salesman. Making of the clothing could be done by themselves or via an already existing factory or business. Finding skill labour shouldn’t be an issue as only skills needed are website designer and database technician.  </p> 
+<h3>Outcome:</h3> 
+<p> If the project is successful, then a working website that allows users to order clothes with differing sizes as well as material. When a customer makes an order, a list is set to storage fulfill the order. Another copy is kept which is tracked, and when enough of one type is order a new batch is made.  The storage should also have a storage base which can keep track of available stocks. </p>
+</body>
+</html>
